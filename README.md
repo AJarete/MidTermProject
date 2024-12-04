@@ -9,7 +9,7 @@ Features
         Round notes
         Round score
     View all saved rounds.
-    Edit or delete existing rounds (if implemented).
+    Edit or delete existing rounds.
     Persistent data storage using SQLite.
 
 Technologies Used
@@ -23,7 +23,7 @@ Installation
 
     Clone the repository:
 
-    git clone https://github.com/yourusername/TCG-Tournament-Round-Tracker.git
+    git clone https://github.com/AJarete/TCG-Tournament-Round-Tracker.git
 
     Open the project in Android Studio.
     Build the project to download the necessary dependencies.
