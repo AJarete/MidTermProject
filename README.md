@@ -1,3 +1,6 @@
+![Screenshot Description](MidTermScreenshot.png)
+
+
 TCG Tournament Round Tracker
 
 This is an Android application that allows users to track rounds during a Trading Card Game (TCG) tournament. The app lets users log details about each round, including the round number, score, opponent's colors, and additional notes.
@@ -45,4 +48,4 @@ Key Components
     ViewRounds: Displays all saved rounds in a list or table view.
     DBHandler: Manages SQLite database operations such as insert, read, update, and delete.
 
-    ![Screenshot Description](MidTermScreenshot.png)
+
