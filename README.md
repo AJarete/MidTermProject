@@ -44,3 +44,5 @@ Key Components
     MainActivity: Handles input for adding rounds and navigation to the view activity.
     ViewRounds: Displays all saved rounds in a list or table view.
     DBHandler: Manages SQLite database operations such as insert, read, update, and delete.
+
+    ![Screenshot Description](MidTermScreenshot.png)
